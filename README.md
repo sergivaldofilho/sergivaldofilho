@@ -38,6 +38,8 @@
 
 [![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&langs_count=6&theme=vue-dark)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark)
+
 ### 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=dracula)
