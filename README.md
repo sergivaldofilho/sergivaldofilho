@@ -32,11 +32,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<!-- ## 📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sergivaldofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<!-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sergivaldofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) -->
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sergivaldofilho&layout=compact&theme=dracula) -->
+[![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&langs_count=6&theme=vue-dark)
 
 ### 🔥 Streak Stats
 
