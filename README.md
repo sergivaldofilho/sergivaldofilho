@@ -1,23 +1,21 @@
-<p align="center">
+<!-- <p align="center">
 <img src="assets/images/banner.jpg">
+</p> -->
+<p align="center">
+  <img src="assets/images/banner.jpg" width="100%" height="300">
 </p>
 
-# Olá! 👋 Eu sou Sergivaldo Filho
+## Olá! 👋 Eu sou Sergivaldo Filho
 
 ![Profile views](https://komarev.com/ghpvc/?username=sergivaldofilho&label=Profile%20views&color=0e75b6&style=flat)
 
 ### Sobre Mim
 
-💻 Sou um profissional DevOps apaixonado por automação, infraestrutura como código e cultura DevOps.
-
+💻 Sou um profissional DevOps com excelente experiência em automação, infraestrutura como código e cultura DevOps.
 🏅 Trabalho com tecnologia desde 2012 e ajudo empresas a adotarem ferramentas que se alinham aos seus negócios.
-
 📝 Escrevo regularmente sobre DevOps e Cloud no meu blog: [seu-blog.com.br]
-
 💬 Me pergunte sobre Ansible, Terraform, Kubernetes, Rancher, Azure e AWS
-
 🌱 Atualmente estudando: Jenkins, Gitlab CI e GitHub Actions
-
 ⚡ Curiosidade: Sou músico, atualmente toco Violoncelo, mas já toquei Violino e Viola de Arco
 
 ### 🛠️ Tecnologias & Ferramentas
@@ -32,31 +30,69 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📊 Estatísticas GitHub
-
-<!-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sergivaldofilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) -->
-
-[![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&langs_count=6&theme=vue-dark)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark)
-
-### 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=dracula)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,bash,docker,git,github,githubactions,gitlab,jenkins,kubernetes,linux,py,terraform" alt="Tech stack icons"/>
+</p>
 
 ### 🗂️ Projetos em Destaque
 
-#### 🏗️ [Infraestrutura com Terraform](https://github.com/SEU-USUARIO/terraform-projeto)
+🏗️ [**Infraestrutura com Terraform**](https://github.com/SEU-USUARIO/terraform-projeto)
 Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
-- **Tecnologias:** Terraform, AWS, GitHub Actions
-- **Destaques:** Infraestrutura como código, CI/CD pipeline
+**Tecnologias utilizadas:**
+<img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,linux,terraform" alt="Tech stack icons" widht="250" height="30"/>
 
 ### 🏅 Certificações & Conquistas
 
-- 🎖️ AWS Certified Solutions Architect
-- 🎖️ Kubernetes Cloud Native Associate
-- 🎖️ Terraform Associate
-- 🎖️ AWS Certified Developer Associate
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+
+  <a href="https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark"
+      width="49.8%"
+      alt="GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=vue-dark">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=vue-dark"
+      width="49.8%"
+      alt="GitHub Streak"
+    />
+  </a>
+
+  <br>
+
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&layout=compact&langs_count=6&theme=vue-dark">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&layout=compact&langs_count=6&theme=vue-dark"
+      width="49.8%"
+      alt="Top Languages"
+    />
+  </a>
+
+  <a href="https://wakatime.com/@sergivaldofilho">
+    <img
+      src="https://github-stats-extended.vercel.app/api/wakatime?username=a78e3cb1-40e0-4029-86e5-a23fb25063f4&langs_count=6&theme=vue-dark"
+      width="49.8%"
+      alt="WakaTime Stats"
+    />
+  </a>
+
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sergivaldofilho&theme=vue&radius=8&height=300"
+    width="99.8%"
+    alt="GitHub Activity Graph"
+  />
+</div>
 
 ### Como me encontrar
 
@@ -65,31 +101,60 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://seu-blog.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sergiccb@gmail.com)
 
-### 📈 Atividade no GitHub
+<p align="left">
+  <a href="https://github.com/sergivaldofilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sergivaldofilho" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sergivaldofilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergivaldofilho" height="30" width="40" /></a>
+</p>
 
-![Atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=sergivaldofilho&theme=dracula)
+---
 
 ### 💖 Apoie meu trabalho
 
 Se você gosta dos meus projetos open source, considere:
 
 - ⭐ Dar estrelas nos repositórios
-- Reportar bugs ou melhorias
+- 💡 Reportar bugs ou melhorias
 - 🤝 Contribuir com código
 - ☕ [Me pagar um café](https://www.buymeacoffee.com/seuusuario)
-
----
 
 **Gostou do meu perfil?** [Me indique para o GitHub Stars ⭐](https://stars.github.com/nominate/)
 
 ⭐️ From [Sergivaldo Filho](https://github.com/sergivaldofilho)
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
- <a href="https://github.com/sergivaldofilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sergivaldofilho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sergivaldofilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergivaldofilho" height="30" width="40" /></a>
-</p>
+<!-- Snippets em reserva rsrs -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+<!-- <p align="left">
+  <a href="https://aws.amazon.com/what-is-aws/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  </a>
+</p> -->
+
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&layout=compact&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&layout=compact&langs_count=6&theme=vue-dark)[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=vue-dark)](https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=vue-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=sergivaldofilho&layout=compact&langs_count=6&display_format=percent&theme=vue-dark)](https://wakatime.com/@sergivaldofilho)
+![Atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=sergivaldofilho&theme=vue) -->
