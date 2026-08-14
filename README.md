@@ -48,6 +48,14 @@
 ### 🏅 Certificações & Conquistas
 
 <!--START_SECTION:badges-->
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/c6145849-7e5c-4485-9f5f-02fbb6788b13)
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/cdca566c-b69a-4991-9104-cc6319aa8174)
+[![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/0a363f89-d19c-4b7c-9f89-876dd8b6a259)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/67537751-a6bc-4591-9b01-cba4042a6986)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/0790ae80-6459-4886-a2e3-1bee322d1de6)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/2d5abc3c-ea1c-49a3-94eb-eb84a77c9f10)
+[![Build search and recommendations applications with AI Applications](https://images.credly.com/size/80x80/images/96153eb1-e9b1-496f-9278-e0dd26a76af3/blob)](https://www.credly.com/badges/897bd475-b903-4bd6-9771-ae618905fb61)
+[![Lifelong Learning](https://images.credly.com/size/80x80/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](https://www.credly.com/badges/c7681a4b-5e87-4a25-9be3-7a3cc9cf2d3f)
 <!--END_SECTION:badges-->
 
 ### 📊 Estatísticas GitHub
