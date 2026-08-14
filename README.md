@@ -42,10 +42,8 @@
 ### 🗂️ Projetos em Destaque
 
 - 🏗️ [**Infraestrutura com Terraform**](https://github.com/SEU-USUARIO/terraform-projeto)
-
   - Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
-  - **Tecnologias utilizadas:**
-<img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,linux,terraform" alt="Tech stack icons" widht="250" height="30"/>
+  - **Tecnologias utilizadas:** <br> <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,linux,terraform" alt="Tech stack icons" widht="250" height="30"/>
 
 ### 🏅 Certificações & Conquistas
 
