@@ -60,9 +60,9 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
 
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=sergivaldofilho&theme=vue-dark&hide_border=false&locale=pt&timezone=GMT-3&card_height=207" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=sergivaldofilho&theme=vue-dark&hide_border=false&locale=pt&timezone=GMT-3&card_height=207"
       width="49.5%"
-      alt="GitHub Streak" 
+      alt="GitHub Streak"
     />
   </a>
 
