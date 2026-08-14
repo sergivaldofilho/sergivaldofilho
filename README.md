@@ -12,10 +12,15 @@
 ### Sobre Mim
 
 💻 Sou um profissional DevOps com excelente experiência em automação, infraestrutura como código e cultura DevOps.
+
 🏅 Trabalho com tecnologia desde 2012 e ajudo empresas a adotarem ferramentas que se alinham aos seus negócios.
+
 📝 Escrevo regularmente sobre DevOps e Cloud no meu blog: [seu-blog.com.br]
+
 💬 Me pergunte sobre Ansible, Terraform, Kubernetes, Rancher, Azure e AWS
+
 🌱 Atualmente estudando: Jenkins, Gitlab CI e GitHub Actions
+
 ⚡ Curiosidade: Sou músico, atualmente toco Violoncelo, mas já toquei Violino e Viola de Arco
 
 ### 🛠️ Tecnologias & Ferramentas
