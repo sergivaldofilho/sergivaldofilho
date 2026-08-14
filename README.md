@@ -53,7 +53,7 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
   <a href="https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark">
     <img
       src="https://github-stats-extended.vercel.app/api?username=sergivaldofilho&rank_icon=github&show_icons=true&include_all_commits=true&theme=vue-dark"
-      width="49.8%"
+      width="49.5%"
       alt="GitHub Stats"
     />
   </a>
@@ -61,7 +61,7 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=vue-dark">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=vue-dark"
-      width="49.8%"
+      width="49.5%"
       alt="GitHub Streak"
     />
   </a>
@@ -71,7 +71,7 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&layout=compact&langs_count=6&theme=vue-dark">
     <img
       src="https://github-stats-extended.vercel.app/api/top-langs?username=sergivaldofilho&layout=compact&langs_count=6&theme=vue-dark"
-      width="49.8%"
+      width="49.5%"
       alt="Top Languages"
     />
   </a>
@@ -79,7 +79,7 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
   <a href="https://wakatime.com/@sergivaldofilho">
     <img
       src="https://github-stats-extended.vercel.app/api/wakatime?username=a78e3cb1-40e0-4029-86e5-a23fb25063f4&langs_count=6&theme=vue-dark"
-      width="49.8%"
+      width="49.5%"
       alt="WakaTime Stats"
     />
   </a>
@@ -89,7 +89,7 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=sergivaldofilho&theme=vue&radius=8&height=300"
-    width="99.8%"
+    width="99%"
     alt="GitHub Activity Graph"
   />
 </div>
