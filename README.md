@@ -58,11 +58,11 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
     />
   </a>
 
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=vue-dark">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sergivaldofilho&theme=vue-dark"
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=sergivaldofilho&theme=vue-dark&hide_border=true&locale=pt&timezone=GMT-3&card_height=207" 
       width="49.5%"
-      alt="GitHub Streak"
+      alt="GitHub Streak" 
     />
   </a>
 
@@ -88,8 +88,8 @@ Automação completa de infraestrutura na AWS usando Terraform e GitHub Actions.
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sergivaldofilho&theme=vue&radius=8&height=300"
-    width="99%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sergivaldofilho&theme=vue&radius=8&height=400"
+    width="99.5%"
     alt="GitHub Activity Graph"
   />
 </div>
